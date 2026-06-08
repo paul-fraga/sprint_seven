@@ -3,6 +3,7 @@
 This project is an interactive web dashboard designed to perform Exploratory Data Analysis (EDA) on a dataset of car sales advertisements (`vehicles_us.csv`). 
 
 > **🔴 [View the Live Web App on Render](https://sprint-seven.onrender.com/)**
+<ln>
 > **🌐 [View the Interactive Case Study on my Portfolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
 
 ### 🛠️ Technologies & Tools
