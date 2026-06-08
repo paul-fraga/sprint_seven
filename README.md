@@ -2,8 +2,8 @@
 
 This project is an interactive web dashboard designed to perform Exploratory Data Analysis (EDA) on a dataset of car sales advertisements (`vehicles_us.csv`). 
 
-> **🔴 [View the Live Web App on Render](https://sprint-seven.onrender.com/)**
-> **🌐 [View the Interactive Case Study on my Portfolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
+**🔴 [View the Live Web App on Render](https://sprint-seven.onrender.com/)**
+**🌐 [View the Interactive Case Study on my Portfolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
 
 ### 🛠️ Technologies & Tools
 * **Language:** Python
@@ -47,8 +47,8 @@ If you want to test the application in your own environment, follow these steps:
 
 Este proyecto es un panel de control web interactivo diseñado para realizar un Análisis Exploratorio de Datos (EDA) sobre un conjunto de datos de anuncios de venta de coches (`vehicles_us.csv`). 
 
-> **🔴 [Ver la Aplicación en Vivo en Render](https://sprint-seven.onrender.com/)**
-> **🌐 [Ver el Caso de Estudio Interactivo en mi Portafolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
+**🔴 [Ver la Aplicación en Vivo en Render](https://sprint-seven.onrender.com/)**
+**🌐 [Ver el Caso de Estudio Interactivo en mi Portafolio](PON_AQUI_TU_LINK_DE_LOVABLE)**
 
 ### 🛠️ Herramientas y Tecnologías
 * **Lenguaje:** Python
